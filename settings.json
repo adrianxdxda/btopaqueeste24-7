@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "pablitoxile",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "pabltoxile",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "MadCraft.aternos.me",
+    "port": 62754,
     "version": "",
     "try-creative": false
   },
